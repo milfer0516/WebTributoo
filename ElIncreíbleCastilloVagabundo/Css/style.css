@@ -1,0 +1,32 @@
+.Cabeza{
+    width: 100%;
+}
+img.Cabeza1{
+    width: 15px;
+}
+.Menú{
+    color: #EF972B;
+}
+.Primera{
+    width: 300px;
+}
+.Ti{
+    color: #EF972B; 
+}
+.redes{
+    width: 100px;
+}
+.Centrar{
+    align-items: center;
+}
+style{
+    border: 30px solid black;
+}
+p{
+    color:#909090;
+    font-style: unset;
+}
+h1{
+    color:#EF972B;
+    font-style: italic;
+}  
